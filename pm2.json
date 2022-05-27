@@ -6,7 +6,7 @@
     "wait_ready" : true,
     "listen_timeout" : 50000,
     "watch" : false,
-    "instances" : 2,
+    "instances" : 4,
     "exec_mode" : "cluster",
     "log_date_format" : "DD-MM-YYYY"
   }]
