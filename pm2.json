@@ -8,6 +8,9 @@
     "watch" : false,
     "instances" : 4,
     "exec_mode" : "cluster",
-    "log_date_format" : "DD-MM-YYYY"
+    "log_date_format" : "DD-MM-YYYY",
+    "env": {
+      "NODE_ENV": "production"
+    }
   }]
 }
