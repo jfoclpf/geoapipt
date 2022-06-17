@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/jfoclpf/geoptapi/issues"
   },
-  "homepage": "https://www.geoptapi.org/",
+  "homepage": "https://www.geoapi.pt/",
   "dependencies": {
     "async": "^3.2.1",
     "body-parser": "^1.19.2",
