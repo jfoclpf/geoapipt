@@ -1,6 +1,6 @@
 {
   "apps" : [{
-    "name" : "geoptapi",
+    "name" : "geoapipt",
     "script" : "server.js",
     "args" : "--port=4057",
     "wait_ready" : true,
