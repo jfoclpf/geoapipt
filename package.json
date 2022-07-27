@@ -1,5 +1,5 @@
 {
-  "name": "geoapipt",
+  "name": "geoapi.pt",
   "version": "1.0.3",
   "description": "Detect official divisional administrative regions of Portugal, providing coordinates",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfoclpf/geoapipt.git"
+    "url": "git+https://github.com/jfoclpf/geoapi.pt.git"
   },
   "keywords": [
     "portugal"
@@ -17,7 +17,7 @@
   "author": "João Pimentel Ferreira",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/jfoclpf/geoapipt/issues"
+    "url": "https://github.com/jfoclpf/geoapi.pt/issues"
   },
   "homepage": "https://www.geoapi.pt/",
   "dependencies": {
